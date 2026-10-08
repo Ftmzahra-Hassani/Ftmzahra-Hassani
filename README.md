@@ -2,7 +2,7 @@
 
 🎓 Engineering Physics Student  
 🐍 Python Developer  
-💻 Interested in Programming, Engineering & Technology
+💻 Interested in Programming, Engineering & Technology   
 
 ## 🛠️ Skills
 
