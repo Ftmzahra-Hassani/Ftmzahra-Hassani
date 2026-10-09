@@ -8,7 +8,7 @@
 
 ### 💻 Programming & Technology
 - Python
-- MD (Molecular Dynamics)
+- MD (Mark down)
 - SQLite
 - Git & GitHub
 - Tkinter
