@@ -10,13 +10,10 @@
 - Python
 - MD (Mark down)
 - SQLite
-- Git & GitHub
 - Tkinter
 - Object-Oriented Programming (OOP)
 - Database Management
-- GUI Development
 - Basic Web Development
-- Django — Currently Learning
 
 ### 📊 Office & Data
 - Microsoft Excel — Advanced
@@ -54,7 +51,6 @@
 ## 📚 Currently Learning
 
 - Advanced Python
-- Django
 - Web Development
 - Software Development
 - Database Design
