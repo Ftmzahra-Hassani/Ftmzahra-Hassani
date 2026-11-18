@@ -6,7 +6,7 @@ Engineering Physics Student | Python Developer | Aspiring Data Scientist
   <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Engineering-Physics-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Exploring-Machine%20Learning-FF6F00?style=for-the-badge" />
-</p>I'm an Engineering Physics student at Arak University with a strong interest in programming, software development, and data science.
+</p>I'm an Engineering Physics student with a strong interest in programming, software development, and data science.
 
 I enjoy turning ideas into practical applications, solving problems through code, and exploring the intersection of engineering and technology.
 
