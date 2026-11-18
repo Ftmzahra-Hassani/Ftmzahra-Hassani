@@ -136,9 +136,3 @@ I'm always interested in learning, sharing ideas, and connecting with people pas
 </p>---
 
 ⭐ Always learning, building, experimenting, and improving.
-
-Turning curiosity into code and ideas into projects.
-
-🤝 Connect With Me
-
-I'm always interested in learning, sharing ideas, and connecting with people passionate about technology, programming, and engineering.
