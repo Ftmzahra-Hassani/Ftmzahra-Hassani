@@ -14,7 +14,7 @@ Currently building Python projects and expanding my knowledge in data analysis a
 
 ---
 
-🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 💻 Programming & Software Development
 
@@ -52,7 +52,8 @@ Currently building Python projects and expanding my knowledge in data analysis a
 - Linear Regression
 - Exploratory Data Analysis
 
-📐 Engineering & Technical Design
+
+# 📐 Engineering & Technical Design
 
 - AutoCAD
 - Engineering Drawing
@@ -61,7 +62,7 @@ Currently building Python projects and expanding my knowledge in data analysis a
 - Technical Documentation
 - Measurement & Dimensioning
 
-🎨 Design & Productivity
+# 🎨 Design & Productivity
 
 - Microsoft Excel (Advanced)
 - Microsoft Word
@@ -71,7 +72,7 @@ Currently building Python projects and expanding my knowledge in data analysis a
 
 ---
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
 Here are some of my selected projects, showcasing my interests in software development, data management, and problem-solving.
 
@@ -93,7 +94,7 @@ Technologies: Python · OOP · SQLite
 
 ---
 
-📚 Currently Learning & Exploring
+# 📚 Currently Learning & Exploring
 
 - Advanced Python Programming
 - Data Science & Statistical Analysis
@@ -104,7 +105,7 @@ Technologies: Python · OOP · SQLite
 
 ---
 
-🎯 Areas of Interest
+# 🎯 Areas of Interest
 
 - Python Development
 - Data Science & Machine Learning
@@ -116,7 +117,7 @@ Technologies: Python · OOP · SQLite
 
 ---
 
-🤝 Connect With Me
+# 🤝 Connect With Me
 
 I'm always interested in learning, sharing ideas, and connecting with people passionate about technology, programming, and engineering.
 
